@@ -1,0 +1,10 @@
+img{
+    width: 100px;
+}
+img:hover{
+    box-shadow: 10px 10px 10px rgba(0, 0, 0);
+}
+
+p{
+    display: inline;
+}
